@@ -1,0 +1,20 @@
+Êşº¾   A O
+       java/lang/Object <init> ()V   java/util/Scanner	 
+ 
+   
+  java/lang/System in Ljava/io/InputStream;
+      (Ljava/io/InputStream;)V	 
+    out Ljava/io/PrintStream;  Welcome to store
+       java/io/PrintStream  println (Ljava/lang/String;)V  Enter customer Name :
+   ! " # nextLine ()Ljava/lang/String; % please Enter cost for item :
+  ' (  print
+   * + ,  nextInt ()I . The originalCost is %d%n
+ 0 1  2 3 4 java/lang/Double  valueOf (D)Ljava/lang/Double;
+  6 7 8 printf <(Ljava/lang/String;[Ljava/lang/Object;)Ljava/io/PrintStream; : Total cost of item %d%n
+ < =  > 3 ? java/lang/Integer (I)Ljava/lang/Integer; A  0(Total cost of item %d%n  C PurchaseCalculator Code LineNumberTable main ([Ljava/lang/String;)V 
+StackMapTable  J [Ljava/lang/String;  L java/lang/String 
+SourceFile purchaseCalculator.java ! B           D        *· ±    E        	 F G  D  #   	   »  Y² 	· L=>² ¶ ² ¶ +¶  :
+£ ² $¶ &+¶ )6`>`=§ÿãh‡9‡g9 ² -½ Y ¸ /S¶ 5W È¡ ² 9½ Y¸ ;S¶ 5W È¢ ² @½ Y¸ ;S¶ 5W±    E   R     
+  
+      
+   %  +  3  9  >  B  E  K  R  g  n  ‚  ‰    # H    ÿ %   I     K  ı <  M    N

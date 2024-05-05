@@ -1,0 +1,12 @@
+public class ArrayKata{
+public static int minimum(int[] array)
+
+if(array ==null(array.lenght == 0);
+int min = array [0];
+d
+for(int min = 1; min <= array.lenght; min++){
+       
+
+
+}
+

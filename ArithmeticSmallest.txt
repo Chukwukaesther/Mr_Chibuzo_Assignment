@@ -1,0 +1,21 @@
+import java.util.Scanner;
+ public class ArithmeticSmallest {
+  public static void main(String[] args){
+   Scanner input = new Scanner(System.in);
+
+
+
+
+System.out.print("Enter firstNUmber: ")
+int firstNUmber = input.nextInt();
+
+System.out.print("Enter secondNUmber: ")
+int secondNUmber = input.nextInt();
+
+System.out.print("Enter thirdNUmber: ")
+int thirdNUmber = input.nextInt();
+
+int sumNumbers = firstNumber + secondNumber + thirdNumber;
+System.out.print(sumNumbers);
+
+

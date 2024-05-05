@@ -1,0 +1,12 @@
+Êþº¾   A $
+       java/lang/Object <init> ()V	  	  
+ 
+  java/lang/System out Ljava/io/PrintStream;  %d%n
+       java/lang/Integer  valueOf (I)Ljava/lang/Integer;
+       java/io/PrintStream printf <(Ljava/lang/String;[Ljava/lang/Object;)Ljava/io/PrintStream;   	OddNumber Code LineNumberTable main ([Ljava/lang/String;)V 
+StackMapTable 
+SourceFile OddNumber.java !                    *· ±            	        b     )<<
+£ !²  
+½ Y¸ S¶ W`<„§ÿß±              
+     "  ( 
+ !     ü #  "    #

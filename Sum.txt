@@ -1,0 +1,11 @@
+var x = 0;
+var y = 0;
+var temp;
+var multy
+
+
+var temp = y + x; 
+console.log(temp);
+
+var multy = temp * 2;
+ 
